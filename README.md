@@ -1,7 +1,7 @@
 ![logo](https://github.com/yash206/yash206/blob/main/banner-gitprofile.png)
 
 <h1 align="center">Hi 👋, I'm Yash Agarwal</h1>
-<h3 align="center">A passionate frontend and Django developer from India.</h3>
+<h3 align="center">A passionate Frontend and Django Developer from India.</h3>
 
 <img align="right" alt="Hello Visitor!!" width="300" height="250" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
 
