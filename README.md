@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yash Agarwal</h1>
 <h3 align="center">A passionate frontend and Django developer from India.</h3>
 
-<img align="right" alt="Hello Visitor!!" width="300" height="250" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
+<img align="right" alt="Hello Visitor!!" width="300" height="250" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-206&label=Profile%20views&color=0e75b6&style=flat" alt="yash206" /> </p>
 
