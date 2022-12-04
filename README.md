@@ -1,4 +1,4 @@
-![logo](https://github.com/yash206/yash206/blob/main/banner-gitprofile.png)
+![logo](https://github.com/yash206/yash206/blob/main/bann.png)
 
 <h1 align="center">Hi 👋, I'm Yash Agarwal</h1>
 <h3 align="center">A passionate Frontend and Django Developer from India.</h3>
