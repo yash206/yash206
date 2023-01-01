@@ -1,13 +1,12 @@
 ![logo](https://github.com/yash206/yash206/blob/main/bann.png)
 
 <h1 align="center">Hi 👋, I'm Yash Agarwal</h1>
-<h3 align="center">A passionate Frontend and Django Developer from India.</h3>
 
 <img align="right" alt="Hello Visitor!!" width="300" height="250" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-206&label=Profile%20views&color=0e75b6&style=flat" alt="yash206" /> </p>
 
-- 🔭 I’m currently working on [Telephonic Directory using Django](https://github.com/yash206/Telephonic-Diary-using-Django.git)
+- 🔭 I’m currently working on project [Telephonic Directory using Django](https://github.com/yash206/Telephonic-Diary-using-Django.git)
 
 - 🌱 I’m currently learning **React Js, Node Js**
 
@@ -15,11 +14,9 @@
 
 - 💬 Ask me about **Django, JavaScript, Python, C++**
 
-- 📫 How to reach me **agarwal1yashagarwal@gmail.com**
+- 📫 You can reach me at **agarwal1yashagarwal@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jH4uDNl92sJKBpZPBIylJfJvhzj9Xx5v/view?usp=share_link](https://drive.google.com/file/d/1jH4uDNl92sJKBpZPBIylJfJvhzj9Xx5v/view?usp=share_link)
-
-- ⚡ Fun fact **I think I have a good sense of humour.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
