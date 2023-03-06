@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yash206](https://github.com/yash206)
 
-- 💬 Ask me about **Django, JavaScript, Python, C++**
+- 💬 Ask me about **Django, JavaScript, Python, C++, MySQL**
 
 - 📫 You can reach me at **agarwal1yashagarwal@gmail.com**
 
