@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-206&label=Profile%20views&color=0e75b6&style=flat" alt="yash206" /> </p>
 
-- 🔭 I’m currently working on project [Advanced Fake News DEtection System]
+- 🔭 I’m currently working on project [Advanced Fake News Detection System]
 
 - 🌱 I’m currently learning **React Js, Node Js**
 
