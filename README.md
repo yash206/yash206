@@ -16,7 +16,7 @@
 
 - 📫 You can reach me at **agarwal1yashagarwal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jH4uDNl92sJKBpZPBIylJfJvhzj9Xx5v/view?usp=share_link](https://drive.google.com/file/d/1jH4uDNl92sJKBpZPBIylJfJvhzj9Xx5v/view?usp=share_link)
+- 📄 Know about my experiences [https://yashagarwal.netlify.app](https://yashagarwal.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
